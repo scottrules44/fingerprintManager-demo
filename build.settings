@@ -1,0 +1,6 @@
+settings =
+{
+	plugins = {
+		["plugin.fingerprintManager"] = {publisherId = "tech.scotth"}
+	}
+}
